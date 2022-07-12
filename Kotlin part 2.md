@@ -1,4 +1,4 @@
-# Kotlin Study Part 2
+# Kotlin part 2
 
 * ### as 연산자
 
