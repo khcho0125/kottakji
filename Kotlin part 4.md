@@ -83,7 +83,7 @@
 
     ```kotlin
     val person = Person("KyungHyeon")
-    val number = person?.let {
+    val number = person?.run {
       	"$name" + number
     }
     print(number)
